@@ -1,1 +1,1 @@
-i just want to use CLion on ubuntu))
+i just want to understand CMAKE(
